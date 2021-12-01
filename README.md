@@ -1,3 +1,3 @@
 ## Hi, I'm **Pi**😜
 
-Study Electronic Engineering. Code for fun.
+Study Computer Science. Code for fun.
